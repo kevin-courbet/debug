@@ -4,7 +4,7 @@
 from setuptools import setup
 
 setup(
-    name='requests',
+    name='debug',
     version='2.25.1',
     python_requires=">=3.7",
     extras_require={
